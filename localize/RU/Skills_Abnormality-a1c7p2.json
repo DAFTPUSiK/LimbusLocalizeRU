@@ -414,7 +414,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Арве",
+          "name": "Стрела",
           "desc": "[WhenUse] Получает 5 [PenetrateDamageUp]",
           "coinlist": [
             {
